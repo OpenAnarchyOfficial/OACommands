@@ -1,0 +1,23 @@
+DiscordLink: "&aJoin Official OA Discord - &b&lhttps://discord.gg/pxmjTtstTF"
+DonationLink: "&aConsider donating to OA to help it continue running - &b&lhttps://openanarchy.tebex.io"
+PingMSG: "&aYour ping is &d&l%ping%&r&ams."
+PingMSGOther: "&aThe ping of &d&l%u%&a is &d&l%ping%&r&ams."
+PingInvalid: "&cPlayer not found."
+
+other:
+  help: |-
+    &8------[ &6&lOpenAnarchy Help &8]------
+    &b/msg - message a player
+    &b/r - reply to the last person you messaged / messaged you
+    &b/l - message the last person you messaged
+    &b/ignore - ignore or unignore a player
+    &b/ignorelist - all players you've ignored
+    &b/tps - ticks per second of the server
+    &b/stats - stats of the server
+    &b/help - shows all the commands
+    &b/discord /donate - links
+    &b/togglechat - toggle chat
+    &b/togglewhispering - toggle private messages
+    &b/toggledeathmsg - toggle death messages
+    &b/pt - playtime and joindate
+    &b/ping - your ping

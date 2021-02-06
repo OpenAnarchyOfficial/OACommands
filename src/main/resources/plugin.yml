@@ -1,0 +1,15 @@
+name: OACommands
+version: 1.0.0
+main: com.qbasty.oacommands.main
+authors: [qbasty]
+description: few commands for openanarchy
+
+commands:
+  help:
+    description: help command
+  discord:
+    description: discord link
+  donate:
+    description: donation page link
+  ping:
+    description: get player ping
